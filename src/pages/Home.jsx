@@ -9,9 +9,7 @@ function Home(){
             <ProductList />
             <Footer />
         </div>
-
     )
-
 }
 
 export default Home

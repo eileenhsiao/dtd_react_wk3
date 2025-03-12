@@ -35,9 +35,7 @@ function ProductList() {
                 </div>
             </div>
         </div>
-
     );
-
 }
 
 export default ProductList;

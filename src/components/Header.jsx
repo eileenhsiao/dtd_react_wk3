@@ -10,9 +10,7 @@ function Header() {
                 <p className="join">JOIN</p>
             </div>
         </header>
-
     );
-
 }
 
 export default Header;
